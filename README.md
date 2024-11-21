@@ -11,7 +11,7 @@ This is a simple single-page application that displays random facts. The app is 
 
 ## Demo
 
-You can view the live demo of the app [here](https://<your-username>.github.io/random-facts-app/).
+You can view the live demo of the app [here](https://msaqibpatel.github.io/fun-facts/).
 
 ## Features
 
